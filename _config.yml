@@ -9,7 +9,7 @@ theme: minima
 
 # Minima theme settings
 minima:
-  skin: solarized # you can change the skin to "air", "dark", "light", or "neon" for different aesthetics
+  skin: solarized
 
 # Plugins
 plugins:
